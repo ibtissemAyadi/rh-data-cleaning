@@ -247,7 +247,7 @@ nettoyage.sauvegarder_donnees(train_clean, test_clean)
 ---
 
 ## 👩‍💻 Auteure
-**Ibtissem Ayadi** — Étudiante ingénieure en IA & Data Engineering.
-**Hiba belhaj** — Étudiante ingénieure en IA & Data Engineering.
+**Ibtissem Ayadi** — Étudiante m2 en IA & Data Engineering.
+**Hiba belhaj** — Étudiante m2 en IA & Data Engineering.
 
 
