@@ -1,0 +1,17 @@
+# Données (téléchargées depuis Kaggle / générées)
+data/raw/*.csv
+data/processed/*.csv
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
